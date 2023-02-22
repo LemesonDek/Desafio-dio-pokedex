@@ -1,1 +1,1 @@
-# Desafio-dio-pokedex
+# Developer-js-pokedex
